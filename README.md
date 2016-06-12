@@ -10,6 +10,12 @@ xcopy "%userprofile%\AppData\Roaming\Microsoft\VisualStudio\14.0\ActivityLog.xml
 start microsoft-edge:"http://localhost/VisualStudioActivityMonitorLog/ActivityLog.xml"
 ```
 
+Visual Studio Versions
+  * Visual Studio 2010 => 10.0
+  * Visual Studio 2012 => 11.0
+  * Visual Studio 2013 => 12.0
+  * Visual Studio 2015 => 14.0
+  * Visual Studio 2015 Extension=> 14.0Exp
 
 ###**Third Party Libraries:**
 
