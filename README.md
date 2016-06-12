@@ -20,3 +20,5 @@ start microsoft-edge:"http://localhost/VisualStudioActivityMonitorLog/ActivityLo
 ###**System Requirements**
 
 This application has been tested on Microsoft Edge, IIS8, Visual Studio 2013/2015 on Windows 10. 
+
+![Visual Studio Activity Monitor Log Viewer Redme.gif](https://raw.githubusercontent.com/tahaipek/VisualStudioActivityMonitorLogViewer/master/README.gif)
