@@ -45,7 +45,7 @@
           <ul class="nav navbar-nav pull-xs-right">
             <li class="nav-item"><a href="#body" class="nav-link" id="back-to-top" title="Back to top">Back to Top</a></li>
             <li class="nav-item"><a id="refreshLink" class="nav-link" href="#">Refresh</a></li>
-            <li class="nav-item active"><a class="nav-link" href="https://github.com/tahaipek/VisualStudioActivityMonitorLogViewer">GitHub</a></li>
+            <li class="nav-item active"><a class="nav-link" href="https://github.com/tahaipek">GitHub</a></li>
             <li class="nav-item active"><a class="nav-link" href="https://twitter.com/_tipek">@_tipek</a></li>
             <li class="nav-item"></li>
           </ul>
